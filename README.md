@@ -10,7 +10,7 @@ Time flies by when I get an interesting project.
   - Register my new family foundation.
   - Get more devops training - Kubernetes, Docker, Jenkins.
 - 📫 How to reach me: koremarcel@gmail.com
-- ⚡ Fun fact: If its fun for you, its not work. Thats data engineering for me.
+- ⚡ Fun fact: As long as you have exhausted to some extent all available resources, you can ask for help!
 
 ### 📕 Latest Github Projects
 
