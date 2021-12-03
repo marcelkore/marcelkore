@@ -4,7 +4,7 @@
 Time flies by when I get an interesting project.
 
 - 🔭 I’m currently working on getting certified in Snowflake DE and DataBricks.
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning DevOps Data Engineering Technologies i.e., Kubernetes, Jenkins
 - 💬 Ask me about anything.
 - 🥅 2021 Goals:
   - Register my new family foundation.
