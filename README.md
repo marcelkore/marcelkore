@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ✨ _Data Engineer_ ✨ by profession. I passionate about working with data.
-Time flies by when I get an interesting project.
+Time flies by when I am working on an interesting project.
 
 - 🔭 I’m currently working on getting certified in Snowflake DE and DataBricks.
 - 🌱 I’m currently learning DevOps Data Engineering Technologies i.e., Kubernetes, Jenkins
