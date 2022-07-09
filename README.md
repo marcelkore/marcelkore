@@ -4,11 +4,16 @@
 Time flies by when I am working on an interesting project.
 
 - 🔭 I’m currently working on getting certified in Snowflake DE and Databricks.
-- 🌱 I’m currently learning DevOps Data Engineering Technologies i.e., Kubernetes, Jenkins
+  -  Snowflake Data Engineer - 🏆🍾🎊
+  -  Databricks Engineer ⏳⌛️ 
+- 🌱 I’m currently learning 
+  -  DevOps Data Engineering Technologies i.e., Kubernetes, Jenkins
+  -  FAST Api
 - 💬 Ask me about anything.
-- 🥅 2021 Goals:
+- 🥅 2022 Goals:
   - Register my new family foundation.
-  - Get more devops training - Kubernetes, Docker, Jenkins.
+  - Start a business
+  - Give back to the community more
 - 📫 How to reach me: koremarcel@gmail.com
 - ⚡ Fun fact: As long as you have exhausted to some extent all available resources, you can ask for help!
 
