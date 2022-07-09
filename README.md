@@ -4,7 +4,7 @@
 Time flies by when I am working on an interesting project.
 
 - 🔭 I’m currently working on getting certified in Snowflake DE and Databricks.
-  -  Snowflake Advanced Data Engineer - 🏆🍾🎊  [Link](https://www.credly.com/badges/2bf84022-a482-4da8-9b23-e2ca0468b3d7/public_url)
+  -  [Snowflake Advanced Data Engineer](https://www.credly.com/badges/2bf84022-a482-4da8-9b23-e2ca0468b3d7/public_url) 🏆🍾🎊 
   -  Databricks Engineer ⏳⌛️ 
 - 🌱 I’m currently learning 
   -  DevOps Data Engineering Technologies i.e., Kubernetes, Jenkins
