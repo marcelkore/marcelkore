@@ -20,4 +20,4 @@ Time flies by when I am working on an interesting project.
 ### 📕 Latest Github Projects
 
 - [Python Application - Report Generator](https://github.com/marcelkore/_p_Report_Generator)
-- [AWS Severless Framework - Image Converter] (https://github.com/marcelkore/_p_AWS_Severless_Image_Converter)
+- [AWS Severless - Image Converter](https://github.com/marcelkore/_p_AWS_Severless_Image_Converter)
